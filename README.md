@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rafi Kadir</h1>
-<h3>A MERN Stack Developer | Passionate about Front End Development</h3>
+<h3>MERN Stack Developer | Passionate about Front End Development</h3>
 
 - 👨‍💻 All of my projects are available at [rafikadir.github.io](rafikadir.github.io)
 - 📫 How to reach me **rafikadir2000@gmail.com**

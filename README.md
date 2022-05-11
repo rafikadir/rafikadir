@@ -2,9 +2,7 @@
 <h3>A MERN Stack Developer | Passionate about Front End Development</h3>
 
 - 👨‍💻 All of my projects are available at [rafikadir.github.io](rafikadir.github.io)
-
 - 📫 How to reach me **rafikadir2000@gmail.com**
-
 - ⚡ Fun fact **Always happy with what I have.**
 
 <h3 align="left">Connect with me:</h3>

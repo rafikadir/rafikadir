@@ -4,4 +4,4 @@
 - 👨‍💻 All of my projects are available at [rafikadir.github.io](rafikadir.github.io)
 - 📫 How to reach me **rafikadir2000@gmail.com**
 - ⚡ Fun fact **Always happy with what I have.**
-- 👨‍💻 [#1589F0] Currently working on **Instagram Clone** Project.
+- 👨‍💻 Currently working on **Instagram Clone** Project.

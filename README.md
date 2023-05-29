@@ -3,4 +3,4 @@
 
 - 📫 How to reach me **rafikadir2000@gmail.com**
 - ⚡ Fun fact **Always happy with what I have.**
-- 👨‍💻 Currently working on **NFT Landing Page** Project.
+- 👨‍💻 Currently working on **React ecommerce application** Project.

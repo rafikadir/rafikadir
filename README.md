@@ -4,3 +4,11 @@
 - 📫 How to reach me **rafikadir2000@gmail.com**
 - ⚡ Fun fact **Always happy with what I have.**
 - 👨‍💻 Currently working on **React ecommerce application** Project.
+
+- ### Skills
+- React.js
+- HTML/CSS
+- JavaScript
+- Responsive Design
+- Webflow / WordPress
+- SEO Optimization

@@ -5,7 +5,7 @@
 - ⚡ Fun fact **Always happy with what I have.**
 - 👨‍💻 Currently working on **React ecommerce application** Project.
 
-- ### Skills
+<h4>Skills</h4>h4>
 - React.js
 - HTML/CSS
 - JavaScript

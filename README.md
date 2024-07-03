@@ -6,9 +6,11 @@
 - 👨‍💻 Currently working on **React ecommerce application** Project.
 
 <h4>Skills</h4>
-- React.js
+- ReactJS
+- NextJS
 - HTML/CSS
 - JavaScript
+- Bootstrap/Tailwind
 - Responsive Design
 - Webflow / WordPress
 - SEO Optimization
